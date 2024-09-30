@@ -44,7 +44,7 @@ Tkinter GUI is is used to create a UI to enter password. Clicking on 'check stre
 ## very good password  
 ![very_good](https://github.com/user-attachments/assets/4260ff2b-97b4-42da-ab50-c2e67c7663a6)
 
-RESULT: 
+RESULT:  
 A python program for Password Strength checker which checks passwords based on 5 criteria and produces a result stating whether it is weak/strong and checks whether it is in the common password database has been completed and executed successfully. 
 
 
